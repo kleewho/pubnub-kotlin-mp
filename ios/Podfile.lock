@@ -1,0 +1,16 @@
+PODS:
+  - pubnub_kotlin_mp (1.0-SNAPSHOT)
+
+DEPENDENCIES:
+  - pubnub_kotlin_mp (from `../`)
+
+EXTERNAL SOURCES:
+  pubnub_kotlin_mp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pubnub_kotlin_mp: 5f30c737b32d775353b5a46f90e52c973fd4a411
+
+PODFILE CHECKSUM: c6c10905f1eeeb833be50dcbd85f759cfa72cd90
+
+COCOAPODS: 1.10.1
